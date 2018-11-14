@@ -1,5 +1,6 @@
 import java.util.Scanner;
 @SuppressWarnings("resource")
+public class ScoreSort{
 	public static void main(String[] args){
 		while(true){
 			 Scanner sc=new Scanner(System.in);
@@ -77,3 +78,4 @@ import java.util.Scanner;
 		}
 	   
 	}
+}
